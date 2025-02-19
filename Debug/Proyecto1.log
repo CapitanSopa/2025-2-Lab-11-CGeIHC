@@ -1,0 +1,9 @@
+﻿  segundo_main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: 'APIENTRY': redefinición de macro
+  (compilando archivo de origen "segundo_main.cpp")
+      C:\Users\santi\OneDrive\Documentos\UNAM\8Octavo Semestre\Grafica\Proyecto1\Proyecto1\include\glfw3.h(98,11):
+      vea la definición anterior de “APIENTRY”
+  
+C:\Users\santi\OneDrive\Documentos\UNAM\8Octavo Semestre\Grafica\Proyecto1\Proyecto1\segundo_main.cpp(260,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Proyecto1.vcxproj -> C:\Users\santi\OneDrive\Documentos\UNAM\8Octavo Semestre\Grafica\Proyecto1\Debug\Proyecto1.exe
